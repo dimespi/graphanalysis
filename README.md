@@ -15,7 +15,7 @@ The plugin installs the following UI elements:
   * “Add a graph” button
   * “Select Nodes or Edges” selection tool
 
-![graphanalysis](https://user-images.githubusercontent.com/31792531/51313636-55c11800-1a4e-11e9-92dc-19bfd308b618.png)
+  ![graphanalysis](https://user-images.githubusercontent.com/31792531/51313636-55c11800-1a4e-11e9-92dc-19bfd308b618.png)
 
 Above, the toolbar with all the tools enabled, in the order described above.
 
@@ -55,6 +55,9 @@ The corresponding xml code part for the nodes' shapes:
 
 ![renderxml](https://user-images.githubusercontent.com/31792531/51315889-89eb0780-1a53-11e9-8a9b-d22d150da2f6.png)
 
+As you can see in the graph file (testgen.graph), the attribute t_2000 is the same for several nodes, hence the same SVG icon for several nodes:
+
+![testgen](https://user-images.githubusercontent.com/31792531/51316080-f82fca00-1a53-11e9-8458-43b304ea53b7.png)
 
 
 
