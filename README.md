@@ -1,4 +1,4 @@
-Install
+##Install
 
 The plugin is compatible with QGIS 3 only (minimum version 3.4.1).
 
@@ -6,7 +6,7 @@ The plugin is compatible with QGIS 3 only (minimum version 3.4.1).
 In QGIS, open the "Plugins" > "Manage and install plugin" dialog. Install the "Graph Analysis" plugin.
 
 
-Usage
+##Usage
 
 The plugin installs the following UI elements:
 
@@ -18,7 +18,7 @@ The “Graph Analysis” toolbar is installed and visible by default. It can be 
 ![graphanalysis](https://user-images.githubusercontent.com/31792531/51313636-55c11800-1a4e-11e9-92dc-19bfd308b618.png)
 Above, the toolbar with all the tools enabled, in the order described above.
 
-“Add a graph” tool
+##“Add a graph” tool
 ![addgraph](https://user-images.githubusercontent.com/31792531/51313635-55288180-1a4e-11e9-8725-3f34d2949feb.png)
 
 This tool adds a graph to the map. It uses the model and Qt to read and and write the graph and is therefore limited to the formats supported by that library. Note also that the raster layer added by this tool does not have all the capabilities of a normal QGIS vector or raster layer: It is limited to visualization and modification using the provided tools.
