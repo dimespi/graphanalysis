@@ -46,7 +46,9 @@ This tool lets you select and edit graph nodes or edges on the map. To edit a no
   ![validateedge](https://user-images.githubusercontent.com/31792531/51314905-3d063180-1a51-11e9-975f-7115a7bb46c4.png)
 
 ## Symbology
-The backend for the symbology has been implemented. To change the graphical style of the nodes/edges, you need a render.xml file. The one provided at the root of the plugin directory contains SVG shapes for the nodes. It is possible to apply your own style by modifying manually the render.xml file. This file contains some nodes IDs and edges start/end nodes IDs so you need to put the corresponding IDs in the render.xml. Here is an example with SVG shapes:
+The backend for the symbology has been implemented. To change the graphical style of the nodes/edges, you need a render.xml file. The one provided at the root of the plugin directory contains SVG shapes for the nodes. There is another example nammed "render2.xml". You can renamed it and replace the other render.xml to see the new style.
+
+It is possible to apply your own style by modifying manually the render.xml file. This file contains some nodes IDs and edges start/end nodes IDs so you need to put the corresponding IDs in the render.xml. Here is an example with SVG shapes:
 
 
 ![svg](https://user-images.githubusercontent.com/31792531/51315787-4ee8d400-1a53-11e9-8d4e-f40326e6496f.png)
