@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="100pt" version="1.1" xmlns="http://www.w3.org/2000/svg" height="100pt" viewBox="0 0 100 100" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <clipPath id="Clip0">
+   <path d="M0 0 L21 0 L21 21 L0 21 L0 0 Z" transform="translate(6.5, 37.5)"/>
+  </clipPath>
+  <linearGradient id="Grad0" y1="20.0162" x1="0" y2="0" gradientUnits="userSpaceOnUse" x2="20.0162">
+   <stop offset="11.8421%" stop-color="#24642c" stop-opacity="1"/>
+   <stop offset="61.0526%" stop-color="#1f9617" stop-opacity="1"/>
+  </linearGradient>
+  <clipPath id="Clip1">
+   <path d="M0 0 L21 0 L21 21 L0 21 L0 0 Z" transform="translate(52.5, 23.5)"/>
+  </clipPath>
+  <linearGradient id="Grad1" y1="20.0162" x1="0" y2="0" gradientUnits="userSpaceOnUse" x2="20.0162">
+   <stop offset="11.8421%" stop-color="#24642c" stop-opacity="1"/>
+   <stop offset="61.0526%" stop-color="#1f9617" stop-opacity="1"/>
+  </linearGradient>
+  <clipPath id="Clip2">
+   <path d="M0 0 L21 0 L21 21 L0 21 L0 0 Z" transform="translate(39.5, 69.5)"/>
+  </clipPath>
+  <linearGradient id="Grad2" y1="20.0162" x1="0" y2="0" gradientUnits="userSpaceOnUse" x2="20.0162">
+   <stop offset="11.8421%" stop-color="#24642c" stop-opacity="1"/>
+   <stop offset="61.0526%" stop-color="#1f9617" stop-opacity="1"/>
+  </linearGradient>
+  <clipPath id="Clip3">
+   <path d="M0 0 L21 0 L21 21 L0 21 L0 0 Z" transform="translate(3.5, 1.5)"/>
+  </clipPath>
+  <linearGradient id="Grad3" y1="20.0162" x1="0" y2="0" gradientUnits="userSpaceOnUse" x2="20.0162">
+   <stop offset="11.8421%" stop-color="#24642c" stop-opacity="1"/>
+   <stop offset="61.0526%" stop-color="#1f9617" stop-opacity="1"/>
+  </linearGradient>
+  <clipPath id="Clip4">
+   <path d="M0 0 L21 0 L21 21 L0 21 L0 0 Z" transform="translate(76.5, 78.5)"/>
+  </clipPath>
+  <linearGradient id="Grad4" y1="20.0162" x1="0" y2="0" gradientUnits="userSpaceOnUse" x2="20.0162">
+   <stop offset="11.8421%" stop-color="#24642c" stop-opacity="1"/>
+   <stop offset="61.0526%" stop-color="#1f9617" stop-opacity="1"/>
+  </linearGradient>
+ </defs>
+ <g id="Fond de page">
+  <path style="fill:#009ee0; fill-rule:evenodd;stroke:#161412; stroke-width:1; stroke-linecap:butt; stroke-linejoin:miter; stroke-dasharray:none;" d="M23.625 11.4375 C23.625 17.7545 18.3366 22.875 11.8125 22.875 C5.28864 22.875 0 17.7545 0 11.4375 C0 5.12074 5.28864 0 11.8125 0 C18.3366 0 23.625 5.12074 23.625 11.4375 Z" transform="translate(6.125, 69.625)"/>
+  <path style="fill:#009ee0; fill-rule:evenodd;stroke:#161412; stroke-width:1; stroke-linecap:butt; stroke-linejoin:miter; stroke-dasharray:none;" d="M23.625 11.4375 C23.625 17.7545 18.3366 22.875 11.8125 22.875 C5.28864 22.875 0 17.7545 0 11.4375 C0 5.12074 5.28864 0 11.8125 0 C18.3366 0 23.625 5.12074 23.625 11.4375 Z" transform="translate(60.125, 51.625)"/>
+  <path style="stroke:#ff0000; stroke-width:2; stroke-linecap:butt; stroke-linejoin:miter; stroke-dasharray:none;" d="M 0 0 L 32.4068 0" transform="translate(29.75, 77.125) rotate(338.978)"/>
+  <path style="stroke:#ff0000; stroke-width:2; stroke-linecap:butt; stroke-linejoin:miter; stroke-dasharray:none;" d="M 0 0 L 26.9072 0" transform="translate(46, 35) rotate(48.0128)"/>
+  <path style="stroke:#ff0000; stroke-width:2; stroke-linecap:butt; stroke-linejoin:miter; stroke-dasharray:none;" d="M 0 0 L 34.8641 0" transform="translate(22, 70.375) rotate(285.706)"/>
+  <path style="stroke:#ff0000; stroke-width:2; stroke-linecap:butt; stroke-linejoin:miter; stroke-dasharray:none;" d="M 0 0 L 31.5753 0" transform="translate(28, 20.6875) rotate(169.046)"/>
+  <path style="stroke:#ff0000; stroke-width:2; stroke-linecap:butt; stroke-linejoin:miter; stroke-dasharray:none;" d="M 0 0 L 26.1272 0" transform="translate(8.5625, 73.75) rotate(226.454)"/>
+  <path style="stroke:#ff0000; stroke-width:2; stroke-linecap:butt; stroke-linejoin:miter; stroke-dasharray:none;" d="M 0 0 L 26.2017 0" transform="translate(74.375, 74.5) rotate(80.9421)"/>
+  <g id="Copie de Groupe 4" clip-path="url(#Clip0)">
+   <path style="fill:url(#Grad0); fill-rule:evenodd;stroke:#161412; stroke-width:0.983837; stroke-linecap:butt; stroke-linejoin:miter; stroke-dasharray:none;" d="M20.0162 10.0081 C20.0162 15.5356 15.5356 20.0162 10.0081 20.0162 C4.48077 20.0162 0 15.5356 0 10.0081 C0 4.48077 4.48077 0 10.0081 0 C15.5356 0 20.0162 4.48077 20.0162 10.0081 Z" transform="translate(6.99192, 37.9919)"/>
+   <path style="fill:#ffffff; fill-rule:evenodd;stroke:#161412; stroke-width:0.01; stroke-linecap:butt; stroke-linejoin:miter; stroke-dasharray:none;" d="M0 4.35809 L4.35809 4.35809 L4.35809 0 L7.90911 0 L7.90911 4.35809 L12.2672 4.35809 L12.2672 7.90911 L7.90911 7.90911 L7.90911 12.2672 L4.35809 12.2672 L4.35809 7.90911 L0 7.90911 L0 4.35809 Z" transform="translate(10.8664, 41.8664)"/>
+  </g>
+  <g id="Copie de Groupe 4 (2)" clip-path="url(#Clip1)">
+   <path style="fill:url(#Grad1); fill-rule:evenodd;stroke:#161412; stroke-width:0.983837; stroke-linecap:butt; stroke-linejoin:miter; stroke-dasharray:none;" d="M20.0162 10.0081 C20.0162 15.5356 15.5356 20.0162 10.0081 20.0162 C4.48077 20.0162 0 15.5356 0 10.0081 C0 4.48077 4.48077 0 10.0081 0 C15.5356 0 20.0162 4.48077 20.0162 10.0081 Z" transform="translate(52.9919, 23.9919)"/>
+   <path style="fill:#ffffff; fill-rule:evenodd;stroke:#161412; stroke-width:0.01; stroke-linecap:butt; stroke-linejoin:miter; stroke-dasharray:none;" d="M0 4.35809 L4.35809 4.35809 L4.35809 0 L7.90911 0 L7.90911 4.35809 L12.2672 4.35809 L12.2672 7.90911 L7.90911 7.90911 L7.90911 12.2672 L4.35809 12.2672 L4.35809 7.90911 L0 7.90911 L0 4.35809 Z" transform="translate(56.8664, 27.8664)"/>
+  </g>
+  <g id="Copie de Groupe 4 (3)" clip-path="url(#Clip2)">
+   <path style="fill:url(#Grad2); fill-rule:evenodd;stroke:#161412; stroke-width:0.983837; stroke-linecap:butt; stroke-linejoin:miter; stroke-dasharray:none;" d="M20.0162 10.0081 C20.0162 15.5356 15.5356 20.0162 10.0081 20.0162 C4.48077 20.0162 0 15.5356 0 10.0081 C0 4.48077 4.48077 0 10.0081 0 C15.5356 0 20.0162 4.48077 20.0162 10.0081 Z" transform="translate(39.9919, 69.9919)"/>
+   <path style="fill:#ffffff; fill-rule:evenodd;stroke:#161412; stroke-width:0.01; stroke-linecap:butt; stroke-linejoin:miter; stroke-dasharray:none;" d="M0 4.35809 L4.35809 4.35809 L4.35809 0 L7.90911 0 L7.90911 4.35809 L12.2672 4.35809 L12.2672 7.90911 L7.90911 7.90911 L7.90911 12.2672 L4.35809 12.2672 L4.35809 7.90911 L0 7.90911 L0 4.35809 Z" transform="translate(43.8664, 73.8664)"/>
+  </g>
+  <path style="fill:#009ee0; fill-rule:evenodd;stroke:#161412; stroke-width:1; stroke-linecap:butt; stroke-linejoin:miter; stroke-dasharray:none;" d="M23.625 11.4375 C23.625 17.7545 18.3366 22.875 11.8125 22.875 C5.28864 22.875 0 17.7545 0 11.4375 C0 5.12074 5.28864 0 11.8125 0 C18.3366 0 23.625 5.12074 23.625 11.4375 Z" transform="translate(26.125, 15.625)"/>
+  <g id="Copie de Groupe 4 (4)" clip-path="url(#Clip3)">
+   <path style="fill:url(#Grad3); fill-rule:evenodd;stroke:#161412; stroke-width:0.983837; stroke-linecap:butt; stroke-linejoin:miter; stroke-dasharray:none;" d="M20.0162 10.0081 C20.0162 15.5356 15.5356 20.0162 10.0081 20.0162 C4.48077 20.0162 0 15.5356 0 10.0081 C0 4.48077 4.48077 0 10.0081 0 C15.5356 0 20.0162 4.48077 20.0162 10.0081 Z" transform="translate(3.99192, 1.99192)"/>
+   <path style="fill:#ffffff; fill-rule:evenodd;stroke:#161412; stroke-width:0.01; stroke-linecap:butt; stroke-linejoin:miter; stroke-dasharray:none;" d="M0 4.35809 L4.35809 4.35809 L4.35809 0 L7.90911 0 L7.90911 4.35809 L12.2672 4.35809 L12.2672 7.90911 L7.90911 7.90911 L7.90911 12.2672 L4.35809 12.2672 L4.35809 7.90911 L0 7.90911 L0 4.35809 Z" transform="translate(7.86639, 5.86639)"/>
+  </g>
+  <g id="Copie de Groupe 4 (5)" clip-path="url(#Clip4)">
+   <path style="fill:url(#Grad4); fill-rule:evenodd;stroke:#161412; stroke-width:0.983837; stroke-linecap:butt; stroke-linejoin:miter; stroke-dasharray:none;" d="M20.0162 10.0081 C20.0162 15.5356 15.5356 20.0162 10.0081 20.0162 C4.48077 20.0162 0 15.5356 0 10.0081 C0 4.48077 4.48077 0 10.0081 0 C15.5356 0 20.0162 4.48077 20.0162 10.0081 Z" transform="translate(76.9919, 78.9919)"/>
+   <path style="fill:#ffffff; fill-rule:evenodd;stroke:#161412; stroke-width:0.01; stroke-linecap:butt; stroke-linejoin:miter; stroke-dasharray:none;" d="M0 4.35809 L4.35809 4.35809 L4.35809 0 L7.90911 0 L7.90911 4.35809 L12.2672 4.35809 L12.2672 7.90911 L7.90911 7.90911 L7.90911 12.2672 L4.35809 12.2672 L4.35809 7.90911 L0 7.90911 L0 4.35809 Z" transform="translate(80.8664, 82.8664)"/>
+  </g>
+ </g>
+</svg>

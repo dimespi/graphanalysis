@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="100pt" version="1.1" xmlns="http://www.w3.org/2000/svg" height="100pt" viewBox="0 0 100 100" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <clipPath id="Clip0">
+   <path d="M0 0 L21 0 L21 21 L0 21 L0 0 Z" transform="translate(40.6562, 5.65625)"/>
+  </clipPath>
+  <linearGradient id="Grad0" y1="20.0161" x1="0" y2="0" gradientUnits="userSpaceOnUse" x2="20.0161">
+   <stop offset="0%" stop-color="#6a280b" stop-opacity="1"/>
+   <stop offset="44.2379%" stop-color="#de3f25" stop-opacity="1"/>
+  </linearGradient>
+  <clipPath id="Clip1">
+   <path d="M0 0 L21 0 L21 21 L0 21 L0 0 Z" transform="translate(77.6562, 47.6562)"/>
+  </clipPath>
+  <linearGradient id="Grad1" y1="20.0161" x1="0" y2="0" gradientUnits="userSpaceOnUse" x2="20.0161">
+   <stop offset="0%" stop-color="#6a280b" stop-opacity="1"/>
+   <stop offset="44.2379%" stop-color="#de3f25" stop-opacity="1"/>
+  </linearGradient>
+  <clipPath id="Clip2">
+   <path d="M0 0 L21 0 L21 21 L0 21 L0 0 Z" transform="translate(13.6562, 58.6562)"/>
+  </clipPath>
+  <linearGradient id="Grad2" y1="20.0161" x1="0" y2="0" gradientUnits="userSpaceOnUse" x2="20.0161">
+   <stop offset="0%" stop-color="#6a280b" stop-opacity="1"/>
+   <stop offset="44.2379%" stop-color="#de3f25" stop-opacity="1"/>
+  </linearGradient>
+ </defs>
+ <g id="Fond de page">
+  <path style="fill:#009ee0; fill-rule:evenodd;stroke:#161412; stroke-width:1; stroke-linecap:butt; stroke-linejoin:miter; stroke-dasharray:none;" d="M23.625 11.4375 C23.625 17.7545 18.3366 22.875 11.8125 22.875 C5.28864 22.875 0 17.7545 0 11.4375 C0 5.12074 5.28864 0 11.8125 0 C18.3366 0 23.625 5.12074 23.625 11.4375 Z" transform="translate(6.125, 69.625)"/>
+  <path style="fill:#ff0000; fill-rule:evenodd;stroke:#161412; stroke-width:1; stroke-linecap:butt; stroke-linejoin:miter; stroke-dasharray:none;" d="M23.625 11.4375 C23.625 17.7545 18.3366 22.875 11.8125 22.875 C5.28864 22.875 0 17.7545 0 11.4375 C0 5.12074 5.28864 0 11.8125 0 C18.3366 0 23.625 5.12074 23.625 11.4375 Z" transform="translate(26.125, 15.625)"/>
+  <path style="fill:#009ee0; fill-rule:evenodd;stroke:#161412; stroke-width:1; stroke-linecap:butt; stroke-linejoin:miter; stroke-dasharray:none;" d="M23.625 11.4375 C23.625 17.7545 18.3366 22.875 11.8125 22.875 C5.28864 22.875 0 17.7545 0 11.4375 C0 5.12074 5.28864 0 11.8125 0 C18.3366 0 23.625 5.12074 23.625 11.4375 Z" transform="translate(60.125, 51.625)"/>
+  <path style="stroke:#161412; stroke-width:1; stroke-linecap:butt; stroke-linejoin:miter; stroke-dasharray:none;" d="M 0 0 L 32.4068 0" transform="translate(29.75, 77.125) rotate(338.978)"/>
+  <path style="stroke:#161412; stroke-width:1; stroke-linecap:butt; stroke-linejoin:miter; stroke-dasharray:none;" d="M 0 0 L 26.9072 0" transform="translate(46, 35) rotate(48.0128)"/>
+  <path style="stroke:#161412; stroke-width:1; stroke-linecap:butt; stroke-linejoin:miter; stroke-dasharray:none;" d="M 0 0 L 34.8641 0" transform="translate(22, 70.375) rotate(285.706)"/>
+  <path style="stroke:#161412; stroke-width:1; stroke-linecap:butt; stroke-linejoin:miter; stroke-dasharray:none;" d="M 0 0 L 31.5753 0" transform="translate(28, 20.6875) rotate(169.046)"/>
+  <path style="stroke:#161412; stroke-width:1; stroke-linecap:butt; stroke-linejoin:miter; stroke-dasharray:none;" d="M 0 0 L 26.1272 0" transform="translate(8.5625, 73.75) rotate(226.454)"/>
+  <path style="stroke:#161412; stroke-width:1; stroke-linecap:butt; stroke-linejoin:miter; stroke-dasharray:none;" d="M 0 0 L 26.2017 0" transform="translate(74.375, 74.5) rotate(80.9421)"/>
+  <g id="Copie de Groupe 4 (5)" clip-path="url(#Clip0)">
+   <path style="fill:url(#Grad0); fill-rule:evenodd;stroke:#161412; stroke-width:0.983895; stroke-linecap:butt; stroke-linejoin:miter; stroke-dasharray:none;" d="M20.0161 10.0081 C20.0161 15.5355 15.5355 20.0161 10.0081 20.0161 C4.48076 20.0161 0 15.5355 0 10.0081 C0 4.48076 4.48076 0 10.0081 0 C15.5355 0 20.0161 4.48076 20.0161 10.0081 Z" transform="translate(41.1482, 6.1482)"/>
+   <path style="fill:#ffffff; fill-rule:evenodd;stroke:#161412; stroke-width:0.01; stroke-linecap:butt; stroke-linejoin:miter; stroke-dasharray:none;" d="M0 0 L12.2679 0 L12.2679 3.55123 L0 3.55123 L0 0 Z" transform="translate(45.0223, 14.3806)"/>
+  </g>
+  <g id="Copie de Groupe 4 (6)" clip-path="url(#Clip1)">
+   <path style="fill:url(#Grad1); fill-rule:evenodd;stroke:#161412; stroke-width:0.983895; stroke-linecap:butt; stroke-linejoin:miter; stroke-dasharray:none;" d="M20.0161 10.0081 C20.0161 15.5355 15.5355 20.0161 10.0081 20.0161 C4.48076 20.0161 0 15.5355 0 10.0081 C0 4.48076 4.48076 0 10.0081 0 C15.5355 0 20.0161 4.48076 20.0161 10.0081 Z" transform="translate(78.1482, 48.1482)"/>
+   <path style="fill:#ffffff; fill-rule:evenodd;stroke:#161412; stroke-width:0.01; stroke-linecap:butt; stroke-linejoin:miter; stroke-dasharray:none;" d="M0 0 L12.2679 0 L12.2679 3.55123 L0 3.55123 L0 0 Z" transform="translate(82.0223, 56.3806)"/>
+  </g>
+  <g id="Copie de Groupe 4 (7)" clip-path="url(#Clip2)">
+   <path style="fill:url(#Grad2); fill-rule:evenodd;stroke:#161412; stroke-width:0.983895; stroke-linecap:butt; stroke-linejoin:miter; stroke-dasharray:none;" d="M20.0161 10.0081 C20.0161 15.5355 15.5355 20.0161 10.0081 20.0161 C4.48076 20.0161 0 15.5355 0 10.0081 C0 4.48076 4.48076 0 10.0081 0 C15.5355 0 20.0161 4.48076 20.0161 10.0081 Z" transform="translate(14.1482, 59.1482)"/>
+   <path style="fill:#ffffff; fill-rule:evenodd;stroke:#161412; stroke-width:0.01; stroke-linecap:butt; stroke-linejoin:miter; stroke-dasharray:none;" d="M0 0 L12.2679 0 L12.2679 3.55123 L0 3.55123 L0 0 Z" transform="translate(18.0223, 67.3806)"/>
+  </g>
+ </g>
+</svg>

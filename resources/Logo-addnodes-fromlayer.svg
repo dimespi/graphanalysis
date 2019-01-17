@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="100pt" version="1.1" xmlns="http://www.w3.org/2000/svg" height="100pt" viewBox="0 0 100 100" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <clipPath id="Clip0">
+   <path d="M0 0 L93.875 0 L93.875 40.055 L0 40.055 L0 0 Z" transform="translate(4.6875, 57.63)"/>
+  </clipPath>
+  <clipPath id="Clip1">
+   <path d="M0 0 L21 0 L21 21 L0 21 L0 0 Z" transform="translate(5.5, 11.5)"/>
+  </clipPath>
+  <linearGradient id="Grad0" y1="20.0162" x1="0" y2="0" gradientUnits="userSpaceOnUse" x2="20.0162">
+   <stop offset="11.8421%" stop-color="#24642c" stop-opacity="1"/>
+   <stop offset="61.0526%" stop-color="#1f9617" stop-opacity="1"/>
+  </linearGradient>
+ </defs>
+ <g id="Fond de page">
+  <path style="fill:#1f9617; fill-rule:evenodd;stroke:#161412; stroke-width:1; stroke-linecap:butt; stroke-linejoin:miter; stroke-dasharray:none;" d="M0 17.625 L4.6875 0 L9.375 17.625 L7.03125 17.625 L7.03125 35.25 L2.34375 35.25 L2.34375 17.625 L0 17.625 Z" transform="translate(48.8125, 29.5)"/>
+  <path style="stroke:#161412; stroke-width:1; stroke-linecap:butt; stroke-linejoin:miter; stroke-dasharray:none;" d="M 0 0 L 58.647 0" transform="translate(79, 38) rotate(171.481)"/>
+  <path style="stroke:#161412; stroke-width:1; stroke-linecap:butt; stroke-linejoin:miter; stroke-dasharray:none;" d="M 0 0 L 21.4009 0" transform="translate(59, 25) rotate(37.4054)"/>
+  <path style="stroke:#161412; stroke-width:1; stroke-linecap:butt; stroke-linejoin:miter; stroke-dasharray:none;" d="M 0 0 L 28.4161 0" transform="translate(50, 21) rotate(144.037)"/>
+  <path style="fill:#009ee0; fill-rule:evenodd;stroke:#161412; stroke-width:1; stroke-linecap:butt; stroke-linejoin:miter; stroke-dasharray:none;" d="M23.625 11.4375 C23.625 17.7545 18.3366 22.875 11.8125 22.875 C5.28864 22.875 0 17.7545 0 11.4375 C0 5.12074 5.28864 0 11.8125 0 C18.3366 0 23.625 5.12074 23.625 11.4375 Z" transform="translate(7.125, 29.625)"/>
+  <path style="fill:#ff0000; fill-rule:evenodd;stroke:#161412; stroke-width:1; stroke-linecap:butt; stroke-linejoin:miter; stroke-dasharray:none;" d="M23.625 11.4375 C23.625 17.7545 18.3366 22.875 11.8125 22.875 C5.28864 22.875 0 17.7545 0 11.4375 C0 5.12074 5.28864 0 11.8125 0 C18.3366 0 23.625 5.12074 23.625 11.4375 Z" transform="translate(43.125, 7.625)"/>
+  <path style="fill:#009ee0; fill-rule:evenodd;stroke:#161412; stroke-width:1; stroke-linecap:butt; stroke-linejoin:miter; stroke-dasharray:none;" d="M23.625 11.4375 C23.625 17.7545 18.3366 22.875 11.8125 22.875 C5.28864 22.875 0 17.7545 0 11.4375 C0 5.12074 5.28864 0 11.8125 0 C18.3366 0 23.625 5.12074 23.625 11.4375 Z" transform="translate(69.125, 25.625)"/>
+  <g id="Groupe 12" clip-path="url(#Clip0)">
+   <path style="fill:#009ee0; fill-rule:evenodd;stroke:#161412; stroke-width:0.61765; stroke-linecap:butt; stroke-linejoin:miter; stroke-dasharray:none;" d="M18.6834 8.62723 L65.392 0 L30.2232 23.1087 L0 20.5205 L18.6834 8.62723 Z" transform="translate(5.05384, 67.7362)"/>
+   <path style="fill:#de3f25; fill-rule:evenodd;stroke:#161412; stroke-width:0.61765; stroke-linecap:butt; stroke-linejoin:miter; stroke-dasharray:none;" d="M29.3989 4.43686 L60.7211 0 L77.2065 18.1788 L0 20.3356 L29.3989 4.43686 Z" transform="translate(20.9897, 57.8765)"/>
+   <path style="fill:#009ee0; fill-rule:evenodd;stroke:#161412; stroke-width:0.61765; stroke-linecap:butt; stroke-linejoin:miter; stroke-dasharray:none;" d="M21.1562 0.739477 L63.1939 0 L28.2999 21.0135 L0 14.7895 L21.1562 0.739477 Z" transform="translate(35.0023, 76.425)"/>
+  </g>
+  <g id="Copie de Groupe 4 (2)" clip-path="url(#Clip1)">
+   <path style="fill:url(#Grad0); fill-rule:evenodd;stroke:#161412; stroke-width:0.983837; stroke-linecap:butt; stroke-linejoin:miter; stroke-dasharray:none;" d="M20.0162 10.0081 C20.0162 15.5356 15.5356 20.0162 10.0081 20.0162 C4.48077 20.0162 0 15.5356 0 10.0081 C0 4.48077 4.48077 0 10.0081 0 C15.5356 0 20.0162 4.48077 20.0162 10.0081 Z" transform="translate(5.99192, 11.9919)"/>
+   <path style="fill:#ffffff; fill-rule:evenodd;stroke:#161412; stroke-width:0.01; stroke-linecap:butt; stroke-linejoin:miter; stroke-dasharray:none;" d="M0 4.35809 L4.35809 4.35809 L4.35809 0 L7.90911 0 L7.90911 4.35809 L12.2672 4.35809 L12.2672 7.90911 L7.90911 7.90911 L7.90911 12.2672 L4.35809 12.2672 L4.35809 7.90911 L0 7.90911 L0 4.35809 Z" transform="translate(9.86639, 15.8664)"/>
+  </g>
+  <path style="fill:#1f9617; fill-rule:evenodd;stroke:#161412; stroke-width:1; stroke-linecap:butt; stroke-linejoin:miter; stroke-dasharray:none;" d="M0 17.625 L4.6875 0 L9.375 17.625 L7.03125 17.625 L7.03125 35.25 L2.34375 35.25 L2.34375 17.625 L0 17.625 Z" transform="translate(12.8125, 51.5)"/>
+  <path style="fill:#1f9617; fill-rule:evenodd;stroke:#161412; stroke-width:1; stroke-linecap:butt; stroke-linejoin:miter; stroke-dasharray:none;" d="M0 17.625 L4.6875 0 L9.375 17.625 L7.03125 17.625 L7.03125 35.25 L2.34375 35.25 L2.34375 17.625 L0 17.625 Z" transform="translate(69.8125, 46.5)"/>
+ </g>
+</svg>
