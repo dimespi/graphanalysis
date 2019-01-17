@@ -1,0 +1,127 @@
+<graphrenderer>
+    <noderules>
+        <rule property="bgcolor">
+            <attribute>t_2000</attribute>
+            <default g="255" iscolor="1" r="255" b="255"/>
+            <interpol>0</interpol>
+            <ruleunit name="t_2000: 11">
+                <attr_val ival="11" iscolor="0"/>
+                <prop_val g="170" iscolor="1" r="170" b="127"/>
+            </ruleunit>
+            <ruleunit name="t_2000: 13">
+                <attr_val ival="13" iscolor="0"/>
+                <prop_val g="217" iscolor="1" r="217" b="217"/>
+            </ruleunit>
+            <ruleunit name="t_2000: 3">
+                <attr_val ival="3" iscolor="0"/>
+                <prop_val g="255" iscolor="1" r="0" b="102"/>
+            </ruleunit>
+            <ruleunit name="t_2000: 4">
+                <attr_val ival="4" iscolor="0"/>
+                <prop_val g="170" iscolor="1" r="170" b="0"/>
+            </ruleunit>
+            <ruleunit name="t_2000: 5">
+                <attr_val ival="5" iscolor="0"/>
+                <prop_val g="85" iscolor="1" r="170" b="255"/>
+            </ruleunit>
+            <ruleunit name="t_2000: 51">
+                <attr_val ival="51" iscolor="0"/>
+                <prop_val g="170" iscolor="1" r="170" b="0"/>
+            </ruleunit>
+            <ruleunit name="t_2000: 7">
+                <attr_val ival="7" iscolor="0"/>
+                <prop_val g="255" iscolor="1" r="255" b="0"/>
+            </ruleunit>
+            <ruleunit name="t_2000: 8">
+                <attr_val ival="8" iscolor="0"/>
+                <prop_val g="170" iscolor="1" r="255" b="0"/>
+            </ruleunit>
+            <ruleunit name="t_2000: 2">
+                <attr_val ival="2" iscolor="0"/>
+                <prop_val g="0" iscolor="1" r="0" b="255"/>
+            </ruleunit>
+            <ruleunit name="t_2000: 61">
+                <attr_val ival="61" iscolor="0"/>
+                <prop_val g="255" iscolor="1" r="170" b="0"/>
+            </ruleunit>
+        </rule>
+        <rule property="fgcolor">
+            <attribute>none</attribute>
+            <default g="0" iscolor="1" r="0" b="0"/>
+            <interpol>0</interpol>
+        </rule>
+        <rule property="linewidth">
+            <attribute>none</attribute>
+            <default ival="1" iscolor="0"/>
+            <interpol>0</interpol>
+        </rule>
+        <rule property="shape">
+            <attribute>t_2000</attribute>
+            <default iscolor="0" str=":/plugins/graphAnalysis/resources/blé.svg"/>
+            <interpol>0</interpol>
+            <ruleunit name="t_2000: 7">
+                <attr_val ival="7" iscolor="0"/>
+                <prop_val str=":/plugins/graphAnalysis/resources/bullbasaur.svg" iscolor="0"/>
+            </ruleunit>
+            <ruleunit name="t_2000: 8">
+                <attr_val ival="8" iscolor="0"/>
+                <prop_val str=":/plugins/graphAnalysis/resources/pikachu.svg" iscolor="0"/>
+            </ruleunit>
+
+        </rule>
+        <rule property="size">
+            <attribute>Surface_m</attribute>
+            <default ival="41" iscolor="0"/>
+            <interpol>1</interpol>
+            <ruleunit name="Surface_m: 172 -> 6">
+                <attr_val ival="172" iscolor="0"/>
+                <prop_val ival="6" iscolor="0"/>
+            </ruleunit>
+            <ruleunit name="Surface_m: 34062 -> 14">
+                <attr_val ival="34062" iscolor="0"/>
+                <prop_val ival="14" iscolor="0"/>
+            </ruleunit>
+            <ruleunit name="Surface_m: 67952 -> 23">
+                <attr_val ival="67952" iscolor="0"/>
+                <prop_val ival="23" iscolor="0"/>
+            </ruleunit>
+            <ruleunit name="Surface_m: 101842 -> 32">
+                <attr_val ival="101842" iscolor="0"/>
+                <prop_val ival="32" iscolor="0"/>
+            </ruleunit>
+            <ruleunit name="Surface_m: 135733 -> 41">
+                <attr_val ival="135733" iscolor="0"/>
+                <prop_val ival="41" iscolor="0"/>
+            </ruleunit>
+        </rule>
+    </noderules>
+    <edgerules>
+        <rule property="fgcolor">
+            <attribute>none</attribute>
+            <default g="0" iscolor="1" r="0" b="0"/>
+            <interpol>0</interpol>
+        </rule>
+        <rule property="linestyle">
+            <attribute>haie012</attribute>
+            <default ival="1" iscolor="0"/>
+            <interpol>0</interpol>
+            <ruleunit name="haie012: 0 -> 0">
+                <attr_val ival="0" iscolor="0"/>
+                <prop_val ival="1" iscolor="0"/>
+            </ruleunit>
+            <ruleunit name="haie012: 1 -> 1">
+                <attr_val ival="1" iscolor="0"/>
+                <prop_val ival="2" iscolor="0"/>
+            </ruleunit>
+            <ruleunit name="haie012: 2 -> 2">
+                <attr_val ival="2" iscolor="0"/>
+                <prop_val ival="3" iscolor="0"/>
+            </ruleunit>
+        </rule>
+        <rule property="linewidth">
+            <attribute>none</attribute>
+            <default ival="1" iscolor="0"/>
+            <interpol>0</interpol>
+        </rule>
+    </edgerules>
+</graphrenderer>

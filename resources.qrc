@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/plugins/graphAnalysis" >
+        <file>resources/logo.svg</file>
+        <file>resources/logo-select.svg</file>
+	<file>resources/blé.svg</file>
+	<file>resources/bullbasaur.svg</file>
+	<file>resources/pikachu.svg</file>
+    </qresource>
+</RCC>
