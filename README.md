@@ -37,9 +37,11 @@ Properties of the layer can be visualized by right-clicking on it: A dialog open
 ## “Select Nodes or Edges” tool
 ![selecttool](https://user-images.githubusercontent.com/31792531/51314534-32976800-1a50-11e9-95e1-7b9ab77fd230.png)
 
-This tool lets you select and edit graph nodes or edges on the map. To edit a node/edge value, click on the corresponding column and type your value. To confirm your changes, proceed this way:
+This tool lets you select and edit graph nodes or edges on the map. To edit a node/edge value, make a click on the toolbar and make the selection then a dialog window appears. Click on the corresponding value you want to modify. To confirm your changes, proceed this way:
 - If you have changed a node value, you have to click on the upper left corner icon to apply your changes
+
 ![selecticon](https://user-images.githubusercontent.com/31792531/51314904-3c6d9b00-1a51-11e9-8c44-d9e4c45f6a85.png)
 - If you have changed an edge value, you have to click on the blank icon on the bottom left corner under "Add from vector layers"
+
 ![validateedge](https://user-images.githubusercontent.com/31792531/51314905-3d063180-1a51-11e9-975f-7115a7bb46c4.png)
 
