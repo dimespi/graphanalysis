@@ -1,42 +1,32 @@
-<html>
-<body>
-<h3>Plugin Builder Results</h3>
+Install
 
-Congratulations! You just built a plugin for QGIS!<br/><br />
+The plugin is compatible with QGIS 3 only (minimum version 3.4.1).
 
-<div id='help' style='font-size:.9em;'>
-Your plugin <b>GraphAnalysis</b> was created in:<br>
-&nbsp;&nbsp;<b>/home/dimas/Documents/Projet/graphanalysis</b>
-<p>
-Your QGIS plugin directory is located at:<br>
-&nbsp;&nbsp;<b>/home/dimas/.local/share/QGIS/QGIS3/profiles/default/python/plugins</b>
-<p>
-<h3>What's Next</h3>
-<ol>
-    <li>In your plugin directory, compile the resources file using pyrcc5 (simply run <b>make</b> if you have automake or use <b>pb_tool</b>)
-    <li>Test the generated sources using <b>make test</b> (or run tests from your IDE)
-    <li>Copy the entire directory containing your new plugin to the QGIS plugin directory (see Notes below)
-    <li>Test the plugin by enabling it in the QGIS plugin manager
-    <li>Customize it by editing the implementation file <b>graphAnalysis.py</b>
-    <li>Create your own custom icon, replacing the default <b>icon.png</b>
-    <li>Modify your user interface by opening <b>graphAnalysis_dialog_base.ui</b> in Qt Designer
-</ol>
-Notes:
-<ul>
-    <li>You can use the <b>Makefile</b> to compile and deploy when you
-        make changes. This requires GNU make (gmake). The Makefile is ready to use, however you 
-        will have to edit it to add addional Python source files, dialogs, and translations.
-    <li>You can also use <b>pb_tool</b> to compile and deploy your plugin. Tweak the <i>pb_tool.cfg</i> file included with your plugin as you add files. Install <b>pb_tool</b> using 
-        <i>pip</i> or <i>easy_install</i>. See <b>http://loc8.cc/pb_tool</b> for more information.
-</ul>
-</div>
-<div style='font-size:.9em;'>
-<p>
-For information on writing PyQGIS code, see <b>http://loc8.cc/pyqgis_resources</b> for a list of resources.
-</p>
-</div>
-<p>
-&copy;2011-2018 GeoApt LLC - geoapt.com 
-</p>
-</body>
-</html>
+
+In QGIS, open the "Plugins" > "Manage and install plugin" dialog. Install the "Graph Analysis" plugin.
+
+
+Usage
+
+The plugin installs the following UI elements:
+
+
+The “Graph Analysis” toolbar is installed and visible by default. It can be hidden using the corresponding entry in the “View” > “Toolbars” menu. This toolbar contains the following tools:
+“Add a graph” button
+“Select Nodes or Edges” selection tool
+
+Above, the toolbar with all the tools enabled, in the order described above.
+
+“Add a graph” tool
+
+This tool adds a graph to the map. It uses the model and Qt to read and and write the graph and is therefore limited to the formats supported by that library. Note also that the raster layer added by this tool does not have all the capabilities of a normal QGIS vector or raster layer: It is limited to visualization and modification using the provided tools.
+
+
+Click on “Browse…” to select a file (graph, txt) and OK to load the graph.
+
+As a result, a new layer is created in the Table of Content and is displayed on the map canvas.
+
+Properties of the layer can be visualized by right-clicking on it: A dialog opens where some details about the layer are displayed, including the location of the graph file and the CRS that is applied to it. It is also possible to get the nodes and edges attributes types. The add Edge and add node attribute dialogs do not work although it has been implemented in the backend. The same goes for the graphical properties.
+
+
+
