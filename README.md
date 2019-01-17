@@ -16,6 +16,7 @@ The “Graph Analysis” toolbar is installed and visible by default. It can be 
 “Select Nodes or Edges” selection tool
 
 ![graphanalysis](https://user-images.githubusercontent.com/31792531/51313636-55c11800-1a4e-11e9-92dc-19bfd308b618.png)
+
 Above, the toolbar with all the tools enabled, in the order described above.
 
 ## “Add a graph” tool
