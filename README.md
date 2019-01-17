@@ -12,8 +12,8 @@ The plugin installs the following UI elements:
 
 
 - The “Graph Analysis” toolbar is installed and visible by default. It can be hidden using the corresponding entry in the “View” > “Toolbars” menu. This toolbar contains the following tools:
-* “Add a graph” button
-* “Select Nodes or Edges” selection tool
+  * “Add a graph” button
+  * “Select Nodes or Edges” selection tool
 
 ![graphanalysis](https://user-images.githubusercontent.com/31792531/51313636-55c11800-1a4e-11e9-92dc-19bfd308b618.png)
 
