@@ -2,13 +2,11 @@
 
 class Graph:
 
-    def _init_(self):
+    def __init__(self):
         #Dictionnaire des noeuds
-        self.listNode = {}
+        self.listNodes = {}
         #Liste des arcs 
-        self.listEdge = []
-        #Dictionnaire des features
-        self.listFeatures = {}
+        self.listEdges = []
         
     def getListNode(self):
         return self.listNodes
@@ -21,6 +19,3 @@ class Graph:
 
     def setListEdge(self, edges):
         self.listEdges = edges
-
-    def getListFeatures(self):
-        return self.listFeatures
