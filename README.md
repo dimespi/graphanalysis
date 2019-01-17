@@ -31,5 +31,7 @@ As a result, a new layer is created in the Table of Content and is displayed on 
 
 Properties of the layer can be visualized by right-clicking on it: A dialog opens where some details about the layer are displayed, including the location of the graph file and the CRS that is applied to it. It is also possible to get the nodes and edges attributes types. The add Edge and add node attribute dialogs do not work although it has been implemented in the backend. The same goes for the graphical properties.
 
+![properties](https://user-images.githubusercontent.com/31792531/51314372-d3d1ee80-1a4f-11e9-81a4-604d5975f5fd.png)
+
 
 
